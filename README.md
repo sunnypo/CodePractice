@@ -1,3 +1,6 @@
+# Python黄岗题库
+
+这里是一个从简单的语法练习到一些好玩的技巧练习的题库，是为了学习Python过程而使用的。其实用于其它的语言也不错。希望大家能Pull Request一些好题目进来。所有的题目都是4位数字，用来标示出题号，在 [PracticeResult](https://github.com/sunnypo/PracticeResult) 项目中有练习的一些成果，也欢迎你将自己的好代码Pull Request进去。
 
 ### 0000
 
