@@ -61,3 +61,10 @@ Quebec省个人所得税率：43,790$以下为15%；43,790-87,575$为20%；87,57
 判断、循环、数字处理练习，试试数组吧
 
 参考： https://www.canada.ca/en/revenue-agency/services/tax/individuals/frequently-asked-questions-individuals/canadian-income-tax-rates-individuals-current-previous-years.html
+
+### 006 神奇排序
+
+依次输入三个整数，请把这三个数字由小到大输出。
+
+判断、循环、数字处理练习，试试Array或Set吧
+
